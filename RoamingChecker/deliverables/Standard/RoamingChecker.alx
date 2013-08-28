@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="RoamingChecker">
+		<name >
+			Roaming Checker
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0.1
+		</version>
+		<vendor >
+			CPH Inc
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 CPH Inc
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				RoamingChecker.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

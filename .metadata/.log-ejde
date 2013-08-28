@@ -1,0 +1,821 @@
+13:49:21,388 TRACE [R] ContextManager starting, bundle version: 1.5.2.201204302029
+13:49:21,463 DEBUG [C] Property change listener is enabled.
+13:49:21,523 TRACE [C] LC_filtering_set was changed from "false" to "true"
+13:49:21,524 TRACE [R] ContextManager startingneed update: true
+13:49:21,527 DEBUG [U] Starting Search for CPs
+13:49:21,531 DEBUG [U] CP named BlackBerry Java SDK version 5.0.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack5.0.0_5.0.0.36/components
+13:49:21,532 DEBUG [U] CP named BlackBerry Java SDK version 6.0.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack6.0.0_6.0.0.43/components
+13:49:21,532 DEBUG [U] CP named BlackBerry Java SDK version 7.0.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack7.0.0_7.0.0.33/components
+13:49:21,533 DEBUG [U] CP named BlackBerry Java SDK version 7.1.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack7.1.0_7.1.0.10/components
+13:49:21,564 DEBUG [C] qualifier: 201204302029
+13:49:22,347 DEBUG [K] Event [org.eclipse.jdt.launching.PROPERTY_JAVADOC_LOCATION] for: *OLD* was[http://download.oracle.com/javase/7/docs/api/] *NEW* is [].
+13:49:22,356 DEBUG [K] VM: *SWITCH* from [NULL] to [Contents$Java SE 7 (MacOS X Default)]
+13:49:22,359 DEBUG [K] VM: *ADDED* [Contents$/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home]
+13:49:22,374 TRACE [W] Attempting to create VM with name - BlackBerry JRE 7.1.0
+13:49:22,378 DEBUG [K] VM: *ADDED* [BlackBerry JRE 7.1.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack7.1.0_7.1.0.10/components]
+13:49:22,384 TRACE [C] openStartupOnEclpseFirstStart was changed from "false" to "false"
+13:49:22,385 TRACE [W] Attempting to create VM with name - BlackBerry JRE 7.0.0
+13:49:22,386 DEBUG [K] VM: *ADDED* [BlackBerry JRE 7.0.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack7.0.0_7.0.0.33/components]
+13:49:22,386 TRACE [W] Attempting to create VM with name - BlackBerry JRE 6.0.0
+13:49:22,387 DEBUG [K] VM: *ADDED* [BlackBerry JRE 6.0.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack6.0.0_6.0.0.43/components]
+13:49:22,387 TRACE [W] Attempting to create VM with name - BlackBerry JRE 5.0.0
+13:49:22,387 DEBUG [K] VM: *ADDED* [BlackBerry JRE 5.0.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack5.0.0_5.0.0.36/components]
+13:49:22,401 DEBUG [I] Bundle [net.rim.ejde] is changing state to Started.
+13:50:38,827 DEBUG [C] qualifier: 19
+13:52:55,451 DEBUG [C] Validating project BlackBerryMailDemo
+13:52:55,457 DEBUG [C] Validating project MailClient
+13:52:55,457 DEBUG [C] Validating project RoamingChecker
+13:52:55,457 DEBUG [C] Validating project SQLiteDemo
+13:52:55,457 DEBUG [C] Validating project LocationMonitor
+13:52:55,457 DEBUG [C] Validating project SyncDemo
+13:52:55,457 DEBUG [C] Validating project MapsMenuItemDemo
+13:52:55,457 DEBUG [C] Validating project LocationPicker
+13:52:55,458 DEBUG [C] Validating project BlackBerryMapsDemo
+13:52:55,458 DEBUG [C] Validating project DB_Debugger
+13:52:55,458 DEBUG [C] Validating project OTABackupRestoreDemo
+13:52:55,458 DEBUG [C] Validating project Project Acropolis SVN debugger
+13:52:55,458 DEBUG [C] Validating project MapFieldDemo
+13:52:55,458 DEBUG [C] Validating project Codes
+13:52:55,458 DEBUG [C] Validating project Project Acropolis
+13:52:55,458 DEBUG [C] Validating project OTASyncDemo
+13:52:55,458 DEBUG [C] Validating project PersistentStoreDemo
+13:52:55,458 DEBUG [C] Validating project CryptoDemo
+13:52:55,678 ERROR [M] Resource '/LocationMonitor/src' already exists.
+13:52:56,049 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/BlackBerry_App_Descriptor.xml
+13:52:56,174 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/BlackBerry_App_Descriptor.xml
+13:52:56,245 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:52:56,263 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:52:56,263 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/BlackBerry_App_Descriptor.xml
+13:52:56,269 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/BlackBerry_App_Descriptor.xml
+13:52:56,285 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:52:56,302 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:52:56,308 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/BlackBerry_App_Descriptor.xml
+13:52:56,313 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/BlackBerry_App_Descriptor.xml
+13:52:56,331 TRACE [e] ****** Get resource for Codes
+13:52:56,347 TRACE [e] ****** Get resource for Codes
+13:52:56,347 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/CryptoDemo/BlackBerry_App_Descriptor.xml
+13:52:56,351 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/CryptoDemo/BlackBerry_App_Descriptor.xml
+13:52:56,366 TRACE [e] ****** Get resource for CryptoDemo
+13:52:56,382 TRACE [e] ****** Get resource for CryptoDemo
+13:52:56,382 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/BlackBerry_App_Descriptor.xml
+13:52:56,385 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/BlackBerry_App_Descriptor.xml
+13:52:56,396 TRACE [e] ****** Get resource for DB_Debugger
+13:52:56,412 TRACE [e] ****** Get resource for DB_Debugger
+13:52:56,423 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/BlackBerry_App_Descriptor.xml
+13:52:56,428 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/BlackBerry_App_Descriptor.xml
+13:52:56,440 TRACE [e] ****** Get resource for LocationMonitor
+13:52:56,454 TRACE [e] ****** Get resource for LocationMonitor
+13:52:56,455 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationPicker/BlackBerry_App_Descriptor.xml
+13:52:56,459 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationPicker/BlackBerry_App_Descriptor.xml
+13:52:56,472 TRACE [e] ****** Get resource for LocationPicker
+13:52:56,488 TRACE [e] ****** Get resource for LocationPicker
+13:52:56,488 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/BlackBerry_App_Descriptor.xml
+13:52:56,493 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/BlackBerry_App_Descriptor.xml
+13:52:56,508 TRACE [e] ****** Get resource for MailClient
+13:52:56,521 TRACE [e] ****** Get resource for MailClient
+13:52:56,521 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/BlackBerry_App_Descriptor.xml
+13:52:56,524 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/BlackBerry_App_Descriptor.xml
+13:52:56,536 TRACE [e] ****** Get resource for MapFieldDemo
+13:52:56,546 TRACE [e] ****** Get resource for MapFieldDemo
+13:52:56,546 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapsMenuItemDemo/BlackBerry_App_Descriptor.xml
+13:52:56,550 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapsMenuItemDemo/BlackBerry_App_Descriptor.xml
+13:52:56,550 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/BlackBerry_App_Descriptor.xml
+13:52:56,554 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/BlackBerry_App_Descriptor.xml
+13:52:56,563 TRACE [e] ****** Get resource for OTABackupRestoreDemo
+13:52:56,574 TRACE [e] ****** Get resource for OTABackupRestoreDemo
+13:52:56,575 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/BlackBerry_App_Descriptor.xml
+13:52:56,579 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/BlackBerry_App_Descriptor.xml
+13:52:56,588 TRACE [e] ****** Get resource for OTASyncDemo
+13:52:56,597 TRACE [e] ****** Get resource for OTASyncDemo
+13:52:56,597 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/BlackBerry_App_Descriptor.xml
+13:52:56,601 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/BlackBerry_App_Descriptor.xml
+13:52:56,610 TRACE [e] ****** Get resource for PersistentStoreDemo
+13:52:56,623 TRACE [e] ****** Get resource for PersistentStoreDemo
+13:52:56,623 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/BlackBerry_App_Descriptor.xml
+13:52:56,626 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/BlackBerry_App_Descriptor.xml
+13:52:56,634 TRACE [e] ****** Get resource for Project Acropolis
+13:52:56,644 TRACE [e] ****** Get resource for Project Acropolis
+13:52:56,644 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:52:56,648 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:52:56,650 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/BlackBerry_App_Descriptor.xml
+13:52:56,653 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/BlackBerry_App_Descriptor.xml
+13:52:56,662 TRACE [e] ****** Get resource for RoamingChecker
+13:52:56,671 TRACE [e] ****** Get resource for RoamingChecker
+13:52:56,671 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/BlackBerry_App_Descriptor.xml
+13:52:56,673 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/BlackBerry_App_Descriptor.xml
+13:52:56,690 TRACE [e] ****** Get resource for SQLiteDemo
+13:52:56,701 TRACE [e] ****** Get resource for SQLiteDemo
+13:52:56,703 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/BlackBerry_App_Descriptor.xml
+13:52:56,706 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/BlackBerry_App_Descriptor.xml
+13:52:56,714 TRACE [e] ****** Get resource for SyncDemo
+13:52:56,722 TRACE [e] ****** Get resource for SyncDemo
+13:52:56,734 DEBUG [C] Validating project BlackBerryMailDemo
+13:52:56,741 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:52:56,741 DEBUG [C] Validating project MailClient
+13:52:56,753 TRACE [e] ****** Get resource for MailClient
+13:52:56,753 DEBUG [C] Validating project RoamingChecker
+13:52:56,760 TRACE [e] ****** Get resource for RoamingChecker
+13:52:56,761 DEBUG [C] Validating project SQLiteDemo
+13:52:56,768 TRACE [e] ****** Get resource for SQLiteDemo
+13:52:56,768 DEBUG [C] Validating project LocationMonitor
+13:52:57,016 TRACE [e] ****** Get resource for LocationMonitor
+13:52:57,016 DEBUG [C] Validating project SyncDemo
+13:52:57,023 TRACE [e] ****** Get resource for SyncDemo
+13:52:57,023 DEBUG [C] Validating project MapsMenuItemDemo
+13:52:57,030 TRACE [e] ****** Get resource for MapsMenuItemDemo
+13:52:57,030 DEBUG [C] Validating project LocationPicker
+13:52:57,038 TRACE [e] ****** Get resource for LocationPicker
+13:52:57,038 DEBUG [C] Validating project BlackBerryMapsDemo
+13:52:57,047 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:52:57,047 DEBUG [C] Validating project DB_Debugger
+13:52:57,055 TRACE [e] ****** Get resource for DB_Debugger
+13:52:57,055 DEBUG [C] Validating project OTABackupRestoreDemo
+13:52:57,062 TRACE [e] ****** Get resource for OTABackupRestoreDemo
+13:52:57,062 DEBUG [C] Validating project Project Acropolis SVN debugger
+13:52:57,070 TRACE [e] ****** Get resource for Project Acropolis SVN debugger
+13:52:57,070 DEBUG [C] Validating project MapFieldDemo
+13:52:57,077 TRACE [e] ****** Get resource for MapFieldDemo
+13:52:57,077 DEBUG [C] Validating project Codes
+13:52:57,084 TRACE [e] ****** Get resource for Codes
+13:52:57,084 DEBUG [C] Validating project Project Acropolis
+13:52:57,090 TRACE [e] ****** Get resource for Project Acropolis
+13:52:57,091 DEBUG [C] Validating project OTASyncDemo
+13:52:57,097 TRACE [e] ****** Get resource for OTASyncDemo
+13:52:57,098 DEBUG [C] Validating project PersistentStoreDemo
+13:52:57,104 TRACE [e] ****** Get resource for PersistentStoreDemo
+13:52:57,105 DEBUG [C] Validating project CryptoDemo
+13:52:57,111 TRACE [e] ****** Get resource for CryptoDemo
+13:52:57,819 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:52:57,821 TRACE [B] Leaving ResourcesBuilder build()
+13:52:57,826 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:52:57,829 ERROR [A] Preprocessing hook was not installed.
+13:52:57,829 TRACE [C] need_clean_workspace was changed from "false" to "true"
+13:52:57,829 ERROR [A] Preprocessing hook was not installed.
+13:52:57,829 ERROR [A] Preprocessing hook was not installed.
+13:52:57,829 ERROR [A] Preprocessing hook was not installed.
+13:52:57,829 ERROR [A] Preprocessing hook was not installed.
+13:52:57,829 ERROR [A] Preprocessing hook was not installed.
+13:52:57,830 ERROR [A] Preprocessing hook was not installed.
+13:52:57,830 ERROR [A] Preprocessing hook was not installed.
+13:52:57,831 TRACE [A] Leaving PreprocessingBuilder build()
+13:52:57,832 INFO  [F] Preprocess hook setting dialog is open
+13:52:57,889 TRACE [A] Project BlackBerryMailDemo is marked as need RAPC.
+13:52:57,930 DEBUG [R] RIA Initialization is started for /Applications/eclipse/plugins/net.rim.ejde.componentpack5.0.0_5.0.0.36/components.....
+13:53:01,748 DEBUG [R] RIA Initialization finished in : 1 ms
+13:53:01,752 DEBUG [W] SigningKey cache is populated for vm: BlackBerry JRE 5.0.0
+13:53:01,850 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:53:01,856 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:53:09,117 TRACE [C] popForPreprocessHookMissing was changed from "true" to "false"
+13:53:09,148 INFO  [F] Preprocess hook setting dialog is closed
+13:53:11,254 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:53:11,254 TRACE [B] Leaving ResourcesBuilder build()
+13:53:11,255 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:53:11,256 TRACE [A] Leaving PreprocessingBuilder build()
+13:53:11,256 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:53:11,256 TRACE [B] Leaving ResourcesBuilder build()
+13:53:11,257 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:53:11,257 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeMapViewScreen.java
+13:53:11,266 TRACE [A] File InvokeMapViewScreen.java is marked as need to be built by java compiler.
+13:53:11,267 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeLocationDocumentScreen.java
+13:53:11,268 TRACE [A] File InvokeLocationDocumentScreen.java is marked as need to be built by java compiler.
+13:53:11,268 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeDefaultScreen.java
+13:53:11,269 TRACE [A] File InvokeDefaultScreen.java is marked as need to be built by java compiler.
+13:53:11,269 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeContactScreen.java
+13:53:11,270 TRACE [A] File InvokeContactScreen.java is marked as need to be built by java compiler.
+13:53:11,270 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/BlackBerryMapsDemo.java
+13:53:11,271 TRACE [A] File BlackBerryMapsDemo.java is marked as need to be built by java compiler.
+13:53:11,272 TRACE [A] Leaving PreprocessingBuilder build()
+13:53:11,279 TRACE [A] Project BlackBerryMapsDemo is marked as need RAPC.
+13:53:11,407 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:53:11,408 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+13:53:11,408 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+13:53:11,410 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TesterScreen.java
+13:53:11,410 TRACE [A] File TesterScreen.java is marked as need to be built by java compiler.
+13:53:11,423 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TesterApp.java
+13:53:11,424 TRACE [A] File TesterApp.java is marked as need to be built by java compiler.
+13:53:11,424 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TableLayoutManager.java
+13:53:11,424 TRACE [A] File TableLayoutManager.java is marked as need to be built by java compiler.
+13:53:11,425 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/StringBreaker.java
+13:53:11,425 TRACE [A] File StringBreaker.java is marked as need to be built by java compiler.
+13:53:11,425 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/PromptApplicationPermissions.java
+13:53:11,426 TRACE [A] File PromptApplicationPermissions.java is marked as need to be built by java compiler.
+13:53:11,426 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/MailCode.java
+13:53:11,426 TRACE [A] File MailCode.java is marked as need to be built by java compiler.
+13:53:11,427 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/Logger.java
+13:53:11,427 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:53:11,427 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/FirstRun.java
+13:53:11,428 TRACE [A] File FirstRun.java is marked as need to be built by java compiler.
+13:53:11,428 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/DataMonitor.java
+13:53:11,428 TRACE [A] File DataMonitor.java is marked as need to be built by java compiler.
+13:53:11,429 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/CallMonitor.java
+13:53:11,429 TRACE [A] File CallMonitor.java is marked as need to be built by java compiler.
+13:53:11,430 TRACE [A] Leaving PreprocessingBuilder build()
+13:53:11,430 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:53:11,430 TRACE [B] Leaving ResourcesBuilder build()
+13:53:11,441 TRACE [A] Project Codes is marked as need RAPC.
+13:53:11,442 DEBUG [R] RIA Initialization is started for /Applications/eclipse/plugins/net.rim.ejde.componentpack6.0.0_6.0.0.43/components.....
+13:53:12,762 DEBUG [C] Validating project Codes
+13:53:12,769 TRACE [e] ****** Get resource for Codes
+13:53:12,929 DEBUG [I] Bundle [net.rim.ejde] is changing state to Stopping.
+13:53:12,930 DEBUG [C] Property change listener is disabled.
+13:53:13,061 DEBUG [R] RIA Initialization finished in : 0 ms
+13:53:16,926 TRACE [R] ContextManager starting, bundle version: 1.5.2.201204302029
+13:53:17,090 DEBUG [C] Property change listener is enabled.
+13:53:17,119 TRACE [R] ContextManager startingneed update: true
+13:53:17,123 DEBUG [U] Starting Search for CPs
+13:53:17,130 DEBUG [U] CP named BlackBerry Java SDK version 5.0.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack5.0.0_5.0.0.36/components
+13:53:17,131 DEBUG [U] CP named BlackBerry Java SDK version 6.0.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack6.0.0_6.0.0.43/components
+13:53:17,136 DEBUG [U] CP named BlackBerry Java SDK version 7.0.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack7.0.0_7.0.0.33/components
+13:53:17,137 DEBUG [U] CP named BlackBerry Java SDK version 7.1.0 was found at /Applications/eclipse/plugins/net.rim.ejde.componentpack7.1.0_7.1.0.10/components
+13:53:17,165 DEBUG [K] VM: *ADDED* [Contents$/Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home]
+13:53:17,173 DEBUG [K] VM: *ADDED* [BlackBerry JRE 7.1.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack7.1.0_7.1.0.10/components]
+13:53:17,180 DEBUG [K] VM: *ADDED* [BlackBerry JRE 7.0.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack7.0.0_7.0.0.33/components]
+13:53:17,180 DEBUG [K] VM: *ADDED* [BlackBerry JRE 6.0.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack6.0.0_6.0.0.43/components]
+13:53:17,180 DEBUG [K] VM: *ADDED* [BlackBerry JRE 5.0.0$/Applications/eclipse/plugins/net.rim.ejde.componentpack5.0.0_5.0.0.36/components]
+13:53:17,181 TRACE [W] Attempting to create VM with name - BlackBerry JRE 7.1.0
+13:53:17,184 TRACE [W] Attempting to create VM with name - BlackBerry JRE 7.0.0
+13:53:17,185 TRACE [W] Attempting to create VM with name - BlackBerry JRE 6.0.0
+13:53:17,186 TRACE [W] Attempting to create VM with name - BlackBerry JRE 5.0.0
+13:53:17,217 DEBUG [C] qualifier: 201204302029
+13:53:17,257 DEBUG [I] Bundle [net.rim.ejde] is changing state to Started.
+13:53:17,424 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/BlackBerry_App_Descriptor.xml
+13:53:17,533 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/BlackBerry_App_Descriptor.xml
+13:53:17,545 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/BlackBerry_App_Descriptor.xml
+13:53:17,549 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/BlackBerry_App_Descriptor.xml
+13:53:17,555 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/BlackBerry_App_Descriptor.xml
+13:53:17,559 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/BlackBerry_App_Descriptor.xml
+13:53:17,566 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/CryptoDemo/BlackBerry_App_Descriptor.xml
+13:53:17,569 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/CryptoDemo/BlackBerry_App_Descriptor.xml
+13:53:17,577 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/BlackBerry_App_Descriptor.xml
+13:53:17,580 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/BlackBerry_App_Descriptor.xml
+13:53:17,648 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/BlackBerry_App_Descriptor.xml
+13:53:17,653 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/BlackBerry_App_Descriptor.xml
+13:53:17,661 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationPicker/BlackBerry_App_Descriptor.xml
+13:53:17,666 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationPicker/BlackBerry_App_Descriptor.xml
+13:53:17,674 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/BlackBerry_App_Descriptor.xml
+13:53:17,679 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/BlackBerry_App_Descriptor.xml
+13:53:17,698 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/BlackBerry_App_Descriptor.xml
+13:53:17,705 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/BlackBerry_App_Descriptor.xml
+13:53:17,714 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapsMenuItemDemo/BlackBerry_App_Descriptor.xml
+13:53:17,720 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapsMenuItemDemo/BlackBerry_App_Descriptor.xml
+13:53:17,725 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/BlackBerry_App_Descriptor.xml
+13:53:17,730 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/BlackBerry_App_Descriptor.xml
+13:53:17,740 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/BlackBerry_App_Descriptor.xml
+13:53:17,746 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/BlackBerry_App_Descriptor.xml
+13:53:17,755 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/BlackBerry_App_Descriptor.xml
+13:53:17,761 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/BlackBerry_App_Descriptor.xml
+13:53:17,769 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/BlackBerry_App_Descriptor.xml
+13:53:17,772 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/BlackBerry_App_Descriptor.xml
+13:53:17,789 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:53:17,795 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:53:17,815 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/BlackBerry_App_Descriptor.xml
+13:53:17,818 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/BlackBerry_App_Descriptor.xml
+13:53:17,823 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/BlackBerry_App_Descriptor.xml
+13:53:17,826 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/BlackBerry_App_Descriptor.xml
+13:53:17,835 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/BlackBerry_App_Descriptor.xml
+13:53:17,838 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/BlackBerry_App_Descriptor.xml
+13:53:21,624 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:53:21,639 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:53:21,663 TRACE [e] ****** Get resource for Codes
+13:53:21,680 TRACE [e] ****** Get resource for CryptoDemo
+13:53:21,693 TRACE [e] ****** Get resource for DB_Debugger
+13:53:21,712 TRACE [e] ****** Get resource for LocationMonitor
+13:53:21,727 TRACE [e] ****** Get resource for LocationPicker
+13:53:21,745 TRACE [e] ****** Get resource for MailClient
+13:53:21,755 TRACE [e] ****** Get resource for MapFieldDemo
+13:53:21,766 TRACE [e] ****** Get resource for OTABackupRestoreDemo
+13:53:21,777 TRACE [e] ****** Get resource for OTASyncDemo
+13:53:21,790 TRACE [e] ****** Get resource for PersistentStoreDemo
+13:53:21,803 TRACE [e] ****** Get resource for Project Acropolis
+13:53:21,818 TRACE [e] ****** Get resource for RoamingChecker
+13:53:21,831 TRACE [e] ****** Get resource for SQLiteDemo
+13:53:21,844 TRACE [e] ****** Get resource for SyncDemo
+13:53:21,848 DEBUG [C] Validating project BlackBerryMailDemo
+13:53:21,857 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:53:21,857 DEBUG [C] Validating project MailClient
+13:53:21,870 TRACE [e] ****** Get resource for MailClient
+13:53:21,870 DEBUG [C] Validating project RoamingChecker
+13:53:21,883 TRACE [e] ****** Get resource for RoamingChecker
+13:53:21,884 DEBUG [C] Validating project SQLiteDemo
+13:53:21,895 TRACE [e] ****** Get resource for SQLiteDemo
+13:53:21,895 DEBUG [C] Validating project LocationMonitor
+13:53:21,906 TRACE [e] ****** Get resource for LocationMonitor
+13:53:21,906 DEBUG [C] Validating project SyncDemo
+13:53:21,919 TRACE [e] ****** Get resource for SyncDemo
+13:53:21,919 DEBUG [C] Validating project MapsMenuItemDemo
+13:53:21,929 TRACE [e] ****** Get resource for MapsMenuItemDemo
+13:53:21,929 DEBUG [C] Validating project LocationPicker
+13:53:21,938 TRACE [e] ****** Get resource for LocationPicker
+13:53:21,938 DEBUG [C] Validating project BlackBerryMapsDemo
+13:53:21,946 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:53:21,947 DEBUG [C] Validating project DB_Debugger
+13:53:21,955 TRACE [e] ****** Get resource for DB_Debugger
+13:53:21,956 DEBUG [C] Validating project OTABackupRestoreDemo
+13:53:21,967 TRACE [e] ****** Get resource for OTABackupRestoreDemo
+13:53:21,968 DEBUG [C] Validating project Project Acropolis SVN debugger
+13:53:21,980 TRACE [e] ****** Get resource for Project Acropolis SVN debugger
+13:53:21,981 DEBUG [C] Validating project MapFieldDemo
+13:53:21,990 TRACE [e] ****** Get resource for MapFieldDemo
+13:53:21,990 DEBUG [C] Validating project Codes
+13:53:21,999 TRACE [e] ****** Get resource for Codes
+13:53:21,999 DEBUG [C] Validating project Project Acropolis
+13:53:22,007 TRACE [e] ****** Get resource for Project Acropolis
+13:53:22,007 DEBUG [C] Validating project OTASyncDemo
+13:53:22,017 TRACE [e] ****** Get resource for OTASyncDemo
+13:53:22,017 DEBUG [C] Validating project PersistentStoreDemo
+13:53:22,024 TRACE [e] ****** Get resource for PersistentStoreDemo
+13:53:22,025 DEBUG [C] Validating project CryptoDemo
+13:53:22,032 TRACE [e] ****** Get resource for CryptoDemo
+13:53:22,049 TRACE [C] need_clean_workspace was changed from "true" to "false"
+13:53:27,409 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:53:27,414 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:53:36,759 ERROR [R] Error creating image: /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/res/img/con.png (No such file or directory)
+13:53:36,853 TRACE [B] Refreshing the resource section for Project Acropolis SVN debugger
+13:53:36,853 TRACE [e] ****** Get resource for Project Acropolis SVN debugger
+13:53:37,021 ERROR [R] Error creating image: /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/res/img/con.png (No such file or directory)
+13:53:58,756 ERROR [R] Error creating image: /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/res/img/con.png (No such file or directory)
+13:54:02,372 TRACE [R] setBBProperties(); Project Acropolis SVN debugger; true
+13:54:02,373 TRACE [R] Writing /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:54:02,421 TRACE [R] Finish writing /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:54:03,927 TRACE [R] loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:54:03,932 TRACE [R] finished loading /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/BlackBerry_App_Descriptor.xml
+13:54:03,933 DEBUG [C] Validating project Project Acropolis SVN debugger
+13:54:03,940 TRACE [e] ****** Get resource for Project Acropolis SVN debugger
+13:54:33,069 DEBUG [C] qualifier: 19
+13:54:33,260 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:33,261 TRACE [B] Leaving ResourcesBuilder build()
+13:54:33,261 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:33,262 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/Util.java
+13:54:33,314 TRACE [A] File Util.java is marked as need to be built by java compiler.
+13:54:33,315 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/MessagesViewScreen.java
+13:54:33,316 TRACE [A] File MessagesViewScreen.java is marked as need to be built by java compiler.
+13:54:33,316 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/MessagesListField.java
+13:54:33,317 TRACE [A] File MessagesListField.java is marked as need to be built by java compiler.
+13:54:33,317 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/MessageScreen.java
+13:54:33,318 TRACE [A] File MessageScreen.java is marked as need to be built by java compiler.
+13:54:33,319 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/FoldersViewScreen.java
+13:54:33,319 TRACE [A] File FoldersViewScreen.java is marked as need to be built by java compiler.
+13:54:33,320 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/ComposeScreen.java
+13:54:33,321 TRACE [A] File ComposeScreen.java is marked as need to be built by java compiler.
+13:54:33,321 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/BlackBerryMailDemoScreen.java
+13:54:33,322 TRACE [A] File BlackBerryMailDemoScreen.java is marked as need to be built by java compiler.
+13:54:33,322 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/BlackBerryMailDemo.java
+13:54:33,323 TRACE [A] File BlackBerryMailDemo.java is marked as need to be built by java compiler.
+13:54:33,324 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:33,346 TRACE [A] Project BlackBerryMailDemo is marked as need RAPC.
+13:54:33,349 DEBUG [R] RIA Initialization is started for /Applications/eclipse/plugins/net.rim.ejde.componentpack5.0.0_5.0.0.36/components.....
+13:54:34,776 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:54:35,293 DEBUG [R] RIA Initialization finished in : 0 ms
+13:54:35,314 DEBUG [W] SigningKey cache is populated for vm: BlackBerry JRE 5.0.0
+13:54:37,786 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:37,787 TRACE [B] Leaving ResourcesBuilder build()
+13:54:37,787 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:37,787 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeMapViewScreen.java
+13:54:37,789 TRACE [A] File InvokeMapViewScreen.java is marked as need to be built by java compiler.
+13:54:37,790 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeLocationDocumentScreen.java
+13:54:37,791 TRACE [A] File InvokeLocationDocumentScreen.java is marked as need to be built by java compiler.
+13:54:37,791 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeDefaultScreen.java
+13:54:37,792 TRACE [A] File InvokeDefaultScreen.java is marked as need to be built by java compiler.
+13:54:37,792 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeContactScreen.java
+13:54:37,793 TRACE [A] File InvokeContactScreen.java is marked as need to be built by java compiler.
+13:54:37,793 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/BlackBerryMapsDemo.java
+13:54:37,794 TRACE [A] File BlackBerryMapsDemo.java is marked as need to be built by java compiler.
+13:54:37,795 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:37,798 TRACE [A] Project BlackBerryMapsDemo is marked as need RAPC.
+13:54:37,945 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:37,945 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+13:54:37,946 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+13:54:37,947 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TesterScreen.java
+13:54:37,947 TRACE [A] File TesterScreen.java is marked as need to be built by java compiler.
+13:54:37,947 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TesterApp.java
+13:54:37,947 TRACE [A] File TesterApp.java is marked as need to be built by java compiler.
+13:54:37,948 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TableLayoutManager.java
+13:54:37,948 TRACE [A] File TableLayoutManager.java is marked as need to be built by java compiler.
+13:54:37,948 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/StringBreaker.java
+13:54:37,948 TRACE [A] File StringBreaker.java is marked as need to be built by java compiler.
+13:54:37,949 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/PromptApplicationPermissions.java
+13:54:37,949 TRACE [A] File PromptApplicationPermissions.java is marked as need to be built by java compiler.
+13:54:37,949 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/MailCode.java
+13:54:37,949 TRACE [A] File MailCode.java is marked as need to be built by java compiler.
+13:54:37,949 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/Logger.java
+13:54:37,950 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:54:37,950 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/FirstRun.java
+13:54:37,950 TRACE [A] File FirstRun.java is marked as need to be built by java compiler.
+13:54:37,950 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/DataMonitor.java
+13:54:37,951 TRACE [A] File DataMonitor.java is marked as need to be built by java compiler.
+13:54:37,951 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/CallMonitor.java
+13:54:37,951 TRACE [A] File CallMonitor.java is marked as need to be built by java compiler.
+13:54:37,952 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:37,952 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:37,953 TRACE [B] Leaving ResourcesBuilder build()
+13:54:37,957 TRACE [A] Project Codes is marked as need RAPC.
+13:54:37,958 DEBUG [R] RIA Initialization is started for /Applications/eclipse/plugins/net.rim.ejde.componentpack6.0.0_6.0.0.43/components.....
+13:54:39,044 DEBUG [R] RIA Initialization finished in : 0 ms
+13:54:39,045 DEBUG [W] SigningKey cache is populated for vm: BlackBerry JRE 6.0.0
+13:54:39,118 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:54:39,127 TRACE [e] ****** Get resource for Codes
+13:54:52,161 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:54:52,167 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:54:52,173 TRACE [e] ****** Get resource for Codes
+13:54:52,173 DEBUG [C] Validating project BlackBerryMapsDemo
+13:54:52,179 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:54:52,179 DEBUG [C] Validating project BlackBerryMailDemo
+13:54:52,185 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:54:52,185 DEBUG [C] Validating project Codes
+13:54:52,191 TRACE [e] ****** Get resource for Codes
+13:54:52,199 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:52,199 TRACE [B] Leaving ResourcesBuilder build()
+13:54:52,199 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:52,200 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/Util.java
+13:54:52,202 TRACE [A] File Util.java is marked as need to be built by java compiler.
+13:54:52,203 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/MessagesViewScreen.java
+13:54:52,204 TRACE [A] File MessagesViewScreen.java is marked as need to be built by java compiler.
+13:54:52,204 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/MessagesListField.java
+13:54:52,205 TRACE [A] File MessagesListField.java is marked as need to be built by java compiler.
+13:54:52,205 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/MessageScreen.java
+13:54:52,206 TRACE [A] File MessageScreen.java is marked as need to be built by java compiler.
+13:54:52,206 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/FoldersViewScreen.java
+13:54:52,207 TRACE [A] File FoldersViewScreen.java is marked as need to be built by java compiler.
+13:54:52,207 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/ComposeScreen.java
+13:54:52,208 TRACE [A] File ComposeScreen.java is marked as need to be built by java compiler.
+13:54:52,208 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/BlackBerryMailDemoScreen.java
+13:54:52,209 TRACE [A] File BlackBerryMailDemoScreen.java is marked as need to be built by java compiler.
+13:54:52,209 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMailDemo/src/com/rim/samples/device/blackberrymaildemo/BlackBerryMailDemo.java
+13:54:52,210 TRACE [A] File BlackBerryMailDemo.java is marked as need to be built by java compiler.
+13:54:52,211 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:52,214 TRACE [A] Project BlackBerryMailDemo is marked as need RAPC.
+13:54:52,449 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:52,449 TRACE [B] Leaving ResourcesBuilder build()
+13:54:52,449 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:52,449 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeMapViewScreen.java
+13:54:52,451 TRACE [A] File InvokeMapViewScreen.java is marked as need to be built by java compiler.
+13:54:52,451 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeLocationDocumentScreen.java
+13:54:52,451 TRACE [A] File InvokeLocationDocumentScreen.java is marked as need to be built by java compiler.
+13:54:52,451 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeDefaultScreen.java
+13:54:52,452 TRACE [A] File InvokeDefaultScreen.java is marked as need to be built by java compiler.
+13:54:52,452 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/InvokeContactScreen.java
+13:54:52,452 TRACE [A] File InvokeContactScreen.java is marked as need to be built by java compiler.
+13:54:52,452 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/BlackBerryMapsDemo/src/com/rim/samples/device/blackberrymapsdemo/BlackBerryMapsDemo.java
+13:54:52,453 TRACE [A] File BlackBerryMapsDemo.java is marked as need to be built by java compiler.
+13:54:52,453 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:52,456 TRACE [A] Project BlackBerryMapsDemo is marked as need RAPC.
+13:54:52,528 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:52,529 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+13:54:52,530 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+13:54:52,530 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TesterScreen.java
+13:54:52,530 TRACE [A] File TesterScreen.java is marked as need to be built by java compiler.
+13:54:52,530 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TesterApp.java
+13:54:52,531 TRACE [A] File TesterApp.java is marked as need to be built by java compiler.
+13:54:52,531 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TableLayoutManager.java
+13:54:52,531 TRACE [A] File TableLayoutManager.java is marked as need to be built by java compiler.
+13:54:52,531 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/StringBreaker.java
+13:54:52,531 TRACE [A] File StringBreaker.java is marked as need to be built by java compiler.
+13:54:52,532 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/PromptApplicationPermissions.java
+13:54:52,532 TRACE [A] File PromptApplicationPermissions.java is marked as need to be built by java compiler.
+13:54:52,532 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/MailCode.java
+13:54:52,532 TRACE [A] File MailCode.java is marked as need to be built by java compiler.
+13:54:52,532 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/Logger.java
+13:54:52,532 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:54:52,533 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/FirstRun.java
+13:54:52,533 TRACE [A] File FirstRun.java is marked as need to be built by java compiler.
+13:54:52,533 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/DataMonitor.java
+13:54:52,533 TRACE [A] File DataMonitor.java is marked as need to be built by java compiler.
+13:54:52,533 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/CallMonitor.java
+13:54:52,533 TRACE [A] File CallMonitor.java is marked as need to be built by java compiler.
+13:54:52,534 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:52,534 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:52,534 TRACE [B] Leaving ResourcesBuilder build()
+13:54:52,538 TRACE [A] Project Codes is marked as need RAPC.
+13:54:52,752 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:52,753 TRACE [B] Leaving ResourcesBuilder build()
+13:54:52,753 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:52,753 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/CryptoDemo/src/com/rim/samples/device/cryptodemo/CryptoDemo.java
+13:54:52,755 TRACE [A] File CryptoDemo.java is marked as need to be built by java compiler.
+13:54:52,757 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:52,760 TRACE [A] Project CryptoDemo is marked as need RAPC.
+13:54:52,823 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:52,823 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/UsageModelFactory.java
+13:54:52,824 TRACE [A] File UsageModelFactory.java is marked as need to be built by java compiler.
+13:54:52,825 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/PlanModelFactory.java
+13:54:52,825 TRACE [A] File PlanModelFactory.java is marked as need to be built by java compiler.
+13:54:52,825 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/MyScreen.java
+13:54:52,825 TRACE [A] File MyScreen.java is marked as need to be built by java compiler.
+13:54:52,826 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/MyApp.java
+13:54:52,826 TRACE [A] File MyApp.java is marked as need to be built by java compiler.
+13:54:52,826 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/ModelFactory.java
+13:54:52,826 TRACE [A] File ModelFactory.java is marked as need to be built by java compiler.
+13:54:52,827 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/MailCode.java
+13:54:52,827 TRACE [A] File MailCode.java is marked as need to be built by java compiler.
+13:54:52,828 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/DB_Debugger/src/mypackage/Logger.java
+13:54:52,828 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:54:52,829 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:52,829 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:52,829 TRACE [B] Leaving ResourcesBuilder build()
+13:54:52,832 TRACE [A] Project DB_Debugger is marked as need RAPC.
+13:54:52,832 DEBUG [R] RIA Initialization is started for /Applications/eclipse/plugins/net.rim.ejde.componentpack7.1.0_7.1.0.10/components.....
+13:54:53,717 TRACE [e] ****** Get resource for BlackBerryMailDemo
+13:54:53,723 TRACE [e] ****** Get resource for BlackBerryMapsDemo
+13:54:53,728 TRACE [e] ****** Get resource for Codes
+13:54:53,734 TRACE [e] ****** Get resource for CryptoDemo
+13:54:53,739 TRACE [e] ****** Get resource for DB_Debugger
+13:54:54,721 DEBUG [R] RIA Initialization finished in : 0 ms
+13:54:54,721 DEBUG [W] SigningKey cache is populated for vm: BlackBerry JRE 7.1.0
+13:54:56,960 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:56,960 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/src/com/location/monitor/ScreenCode.java
+13:54:56,961 TRACE [A] File ScreenCode.java is marked as need to be built by java compiler.
+13:54:56,962 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/src/com/location/monitor/Mailing.java
+13:54:56,963 TRACE [A] File Mailing.java is marked as need to be built by java compiler.
+13:54:56,963 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/src/com/location/monitor/LocationScreen.java
+13:54:56,963 TRACE [A] File LocationScreen.java is marked as need to be built by java compiler.
+13:54:56,963 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/src/com/location/monitor/LocationCode.java
+13:54:56,964 TRACE [A] File LocationCode.java is marked as need to be built by java compiler.
+13:54:56,964 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationMonitor/src/com/location/monitor/LocationApp.java
+13:54:56,964 TRACE [A] File LocationApp.java is marked as need to be built by java compiler.
+13:54:56,965 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:56,965 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:56,965 TRACE [B] Leaving ResourcesBuilder build()
+13:54:56,968 TRACE [A] Project LocationMonitor is marked as need RAPC.
+13:54:57,063 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,063 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationPicker/src/mypackage/MyScreen.java
+13:54:57,064 TRACE [A] File MyScreen.java is marked as need to be built by java compiler.
+13:54:57,064 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/LocationPicker/src/mypackage/MyApp.java
+13:54:57,065 TRACE [A] File MyApp.java is marked as need to be built by java compiler.
+13:54:57,065 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,065 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,065 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,068 TRACE [A] Project LocationPicker is marked as need RAPC.
+13:54:57,100 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,101 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/src/com/mail/MailScreen.java
+13:54:57,101 TRACE [A] File MailScreen.java is marked as need to be built by java compiler.
+13:54:57,102 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/src/com/mail/MailCodes.java
+13:54:57,103 TRACE [A] File MailCodes.java is marked as need to be built by java compiler.
+13:54:57,103 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/src/com/mail/MailApp.java
+13:54:57,103 TRACE [A] File MailApp.java is marked as need to be built by java compiler.
+13:54:57,104 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MailClient/src/com/mail/Logger.java
+13:54:57,104 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:54:57,105 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,105 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,105 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,108 TRACE [A] Project MailClient is marked as need RAPC.
+13:54:57,152 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,153 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,153 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,153 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/src/com/rim/samples/device/mapfielddemo/MapFieldDemoTokenizer.java
+13:54:57,155 TRACE [A] File MapFieldDemoTokenizer.java is marked as need to be built by java compiler.
+13:54:57,157 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/src/com/rim/samples/device/mapfielddemo/MapFieldDemoSite.java
+13:54:57,158 TRACE [A] File MapFieldDemoSite.java is marked as need to be built by java compiler.
+13:54:57,158 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/src/com/rim/samples/device/mapfielddemo/MapFieldDemoScreen.java
+13:54:57,158 TRACE [A] File MapFieldDemoScreen.java is marked as need to be built by java compiler.
+13:54:57,159 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/src/com/rim/samples/device/mapfielddemo/MapFieldDemoMenuItem.java
+13:54:57,159 TRACE [A] File MapFieldDemoMenuItem.java is marked as need to be built by java compiler.
+13:54:57,160 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/src/com/rim/samples/device/mapfielddemo/MapFieldDemo.java
+13:54:57,160 TRACE [A] File MapFieldDemo.java is marked as need to be built by java compiler.
+13:54:57,160 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapFieldDemo/src/com/rim/samples/device/mapfielddemo/DemoMapField.java
+13:54:57,161 TRACE [A] File DemoMapField.java is marked as need to be built by java compiler.
+13:54:57,162 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,179 TRACE [A] Project MapFieldDemo is marked as need RAPC.
+13:54:57,289 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,289 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,289 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,290 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/MapsMenuItemDemo/src/com/rim/samples/device/mapsmenuitemdemo/MapsMenuItemDemo.java
+13:54:57,291 TRACE [A] File MapsMenuItemDemo.java is marked as need to be built by java compiler.
+13:54:57,294 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,296 TRACE [A] Project MapsMenuItemDemo is marked as need RAPC.
+13:54:57,358 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,358 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,358 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,359 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/src/com/rim/samples/device/otabackuprestoredemo/OTAContactScreen.java
+13:54:57,360 TRACE [A] File OTAContactScreen.java is marked as need to be built by java compiler.
+13:54:57,361 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/src/com/rim/samples/device/otabackuprestoredemo/OTAContactData.java
+13:54:57,362 TRACE [A] File OTAContactData.java is marked as need to be built by java compiler.
+13:54:57,362 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/src/com/rim/samples/device/otabackuprestoredemo/OTABackupRestoreDemo.java
+13:54:57,362 TRACE [A] File OTABackupRestoreDemo.java is marked as need to be built by java compiler.
+13:54:57,380 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTABackupRestoreDemo/src/com/rim/samples/device/otabackuprestoredemo/OTABackupRestoreContactCollection.java
+13:54:57,381 TRACE [A] File OTABackupRestoreContactCollection.java is marked as need to be built by java compiler.
+13:54:57,381 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,385 TRACE [A] Project OTABackupRestoreDemo is marked as need RAPC.
+13:54:57,513 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,514 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,514 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,514 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/src/com/rim/samples/device/otasyncdemo/OTASyncDemo.java
+13:54:57,516 TRACE [A] File OTASyncDemo.java is marked as need to be built by java compiler.
+13:54:57,518 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/src/com/rim/samples/device/otasyncdemo/OTAContactScreen.java
+13:54:57,518 TRACE [A] File OTAContactScreen.java is marked as need to be built by java compiler.
+13:54:57,518 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/src/com/rim/samples/device/otasyncdemo/OTAContactData.java
+13:54:57,519 TRACE [A] File OTAContactData.java is marked as need to be built by java compiler.
+13:54:57,519 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/OTASyncDemo/src/com/rim/samples/device/otasyncdemo/OTAContactCollection.java
+13:54:57,519 TRACE [A] File OTAContactCollection.java is marked as need to be built by java compiler.
+13:54:57,520 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,524 TRACE [A] Project OTASyncDemo is marked as need RAPC.
+13:54:57,624 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,625 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,625 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,625 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/src/com/rim/samples/device/persistentstoredemo/PersistentStoreListener.java
+13:54:57,626 TRACE [A] File PersistentStoreListener.java is marked as need to be built by java compiler.
+13:54:57,628 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/src/com/rim/samples/device/persistentstoredemo/PersistentStoreDemoScreen.java
+13:54:57,628 TRACE [A] File PersistentStoreDemoScreen.java is marked as need to be built by java compiler.
+13:54:57,629 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/src/com/rim/samples/device/persistentstoredemo/PersistentStoreDemo.java
+13:54:57,629 TRACE [A] File PersistentStoreDemo.java is marked as need to be built by java compiler.
+13:54:57,629 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/src/com/rim/samples/device/persistentstoredemo/MeetingScreen.java
+13:54:57,630 TRACE [A] File MeetingScreen.java is marked as need to be built by java compiler.
+13:54:57,630 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/PersistentStoreDemo/src/com/rim/samples/device/persistentstoredemo/Meeting.java
+13:54:57,630 TRACE [A] File Meeting.java is marked as need to be built by java compiler.
+13:54:57,631 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,637 TRACE [A] Project PersistentStoreDemo is marked as need RAPC.
+13:54:57,755 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,756 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/model/ModelFactory.java
+13:54:57,758 TRACE [A] File ModelFactory.java is marked as need to be built by java compiler.
+13:54:57,760 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/UIScreen.java
+13:54:57,761 TRACE [A] File UIScreen.java is marked as need to be built by java compiler.
+13:54:57,761 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/RoamingRunnable.java
+13:54:57,761 TRACE [A] File RoamingRunnable.java is marked as need to be built by java compiler.
+13:54:57,763 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/MailCode.java
+13:54:57,763 TRACE [A] File MailCode.java is marked as need to be built by java compiler.
+13:54:57,763 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/LocationCode.java
+13:54:57,764 TRACE [A] File LocationCode.java is marked as need to be built by java compiler.
+13:54:57,764 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/LocationApplication.java
+13:54:57,764 TRACE [A] File LocationApplication.java is marked as need to be built by java compiler.
+13:54:57,765 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/CodesHandler.java
+13:54:57,765 TRACE [A] File CodesHandler.java is marked as need to be built by java compiler.
+13:54:57,765 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/BackgroundWorker.java
+13:54:57,766 TRACE [A] File BackgroundWorker.java is marked as need to be built by java compiler.
+13:54:57,766 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis/src/com/app/project/acropolis/UI/ApplicationController.java
+13:54:57,766 TRACE [A] File ApplicationController.java is marked as need to be built by java compiler.
+13:54:57,767 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,767 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,768 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,785 TRACE [A] Project Project Acropolis is marked as need RAPC.
+13:54:57,942 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:57,943 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/loggers/Logger.java
+13:54:57,943 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:54:57,944 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/loggers/DBLogger.java
+13:54:57,944 TRACE [A] File DBLogger.java is marked as need to be built by java compiler.
+13:54:57,947 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/model/ApplicationDB.java
+13:54:57,948 TRACE [A] File ApplicationDB.java is marked as need to be built by java compiler.
+13:54:57,949 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/monitor/TextMonitor.java
+13:54:57,950 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+13:54:57,950 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/monitor/LocationCode.java
+13:54:57,951 TRACE [A] File LocationCode.java is marked as need to be built by java compiler.
+13:54:57,951 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/monitor/DataMonitor.java
+13:54:57,951 TRACE [A] File DataMonitor.java is marked as need to be built by java compiler.
+13:54:57,951 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/monitor/CallMonitor_ver2.java
+13:54:57,952 TRACE [A] File CallMonitor_ver2.java is marked as need to be built by java compiler.
+13:54:57,952 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/monitor/CallMonitor.java
+13:54:57,952 TRACE [A] File CallMonitor.java is marked as need to be built by java compiler.
+13:54:57,952 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/mail/MailCode.java
+13:54:57,953 TRACE [A] File MailCode.java is marked as need to be built by java compiler.
+13:54:57,953 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/engine/mail/HoledCeiling.java
+13:54:57,953 TRACE [A] File HoledCeiling.java is marked as need to be built by java compiler.
+13:54:57,954 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/controller/StringBreaker.java
+13:54:57,954 TRACE [A] File StringBreaker.java is marked as need to be built by java compiler.
+13:54:57,955 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/controller/ServerChannel.java
+13:54:57,955 TRACE [A] File ServerChannel.java is marked as need to be built by java compiler.
+13:54:57,955 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/controller/RESTServerConnection.java
+13:54:57,955 TRACE [A] File RESTServerConnection.java is marked as need to be built by java compiler.
+13:54:57,956 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/controller/PlanReducer.java
+13:54:57,956 TRACE [A] File PlanReducer.java is marked as need to be built by java compiler.
+13:54:57,956 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/controller/CodeValidator.java
+13:54:57,956 TRACE [A] File CodeValidator.java is marked as need to be built by java compiler.
+13:54:57,957 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/controller/ClockListener.java
+13:54:57,957 TRACE [A] File ClockListener.java is marked as need to be built by java compiler.
+13:54:57,957 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/UI/UIScreen.java
+13:54:57,958 TRACE [A] File UIScreen.java is marked as need to be built by java compiler.
+13:54:57,958 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Project Acropolis SVN debugger/src/com/app/project/acropolis/UI/ApplicationEntry.java
+13:54:57,958 TRACE [A] File ApplicationEntry.java is marked as need to be built by java compiler.
+13:54:57,960 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:57,960 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:57,960 TRACE [B] Leaving ResourcesBuilder build()
+13:54:57,984 TRACE [A] Project Project Acropolis SVN debugger is marked as need RAPC.
+13:54:58,298 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:58,298 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/Screen.java
+13:54:58,299 TRACE [A] File Screen.java is marked as need to be built by java compiler.
+13:54:58,300 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/ModelFactory.java
+13:54:58,301 TRACE [A] File ModelFactory.java is marked as need to be built by java compiler.
+13:54:58,301 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/Logger.java
+13:54:58,301 TRACE [A] File Logger.java is marked as need to be built by java compiler.
+13:54:58,301 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/LocationThread.java
+13:54:58,302 TRACE [A] File LocationThread.java is marked as need to be built by java compiler.
+13:54:58,302 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/LocationCode.java
+13:54:58,302 TRACE [A] File LocationCode.java is marked as need to be built by java compiler.
+13:54:58,302 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/DataMonitor.java
+13:54:58,303 TRACE [A] File DataMonitor.java is marked as need to be built by java compiler.
+13:54:58,303 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/AppMap_5.java
+13:54:58,303 TRACE [A] File AppMap_5.java is marked as need to be built by java compiler.
+13:54:58,304 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/RoamingChecker/src/com/roaming/checker/App.java
+13:54:58,304 TRACE [A] File App.java is marked as need to be built by java compiler.
+13:54:58,305 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:58,311 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:58,312 TRACE [B] Leaving ResourcesBuilder build()
+13:54:58,316 TRACE [A] Project RoamingChecker is marked as need RAPC.
+13:54:58,421 TRACE [e] ****** Get resource for LocationMonitor
+13:54:58,427 TRACE [e] ****** Get resource for LocationPicker
+13:54:58,436 TRACE [e] ****** Get resource for MailClient
+13:54:58,452 TRACE [e] ****** Get resource for MapFieldDemo
+13:54:58,458 TRACE [e] ****** Get resource for OTABackupRestoreDemo
+13:54:58,464 TRACE [e] ****** Get resource for OTASyncDemo
+13:54:58,471 TRACE [e] ****** Get resource for PersistentStoreDemo
+13:54:58,477 TRACE [e] ****** Get resource for Project Acropolis
+13:54:58,483 TRACE [e] ****** Get resource for Project Acropolis SVN debugger
+13:54:58,489 TRACE [e] ****** Get resource for RoamingChecker
+13:54:58,506 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:58,506 TRACE [B] Leaving ResourcesBuilder build()
+13:54:58,506 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:58,506 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/src/com/rim/samples/device/sqlitedemo/SQLiteDemoScreen.java
+13:54:58,508 TRACE [A] File SQLiteDemoScreen.java is marked as need to be built by java compiler.
+13:54:58,509 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/src/com/rim/samples/device/sqlitedemo/SQLiteDemo.java
+13:54:58,509 TRACE [A] File SQLiteDemo.java is marked as need to be built by java compiler.
+13:54:58,510 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/src/com/rim/samples/device/sqlitedemo/SQLManager.java
+13:54:58,510 TRACE [A] File SQLManager.java is marked as need to be built by java compiler.
+13:54:58,510 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/src/com/rim/samples/device/sqlitedemo/ItemScreen.java
+13:54:58,511 TRACE [A] File ItemScreen.java is marked as need to be built by java compiler.
+13:54:58,511 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/src/com/rim/samples/device/sqlitedemo/DirectoryItem.java
+13:54:58,512 TRACE [A] File DirectoryItem.java is marked as need to be built by java compiler.
+13:54:58,512 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SQLiteDemo/src/com/rim/samples/device/sqlitedemo/Category.java
+13:54:58,512 TRACE [A] File Category.java is marked as need to be built by java compiler.
+13:54:58,513 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:58,518 TRACE [A] Project SQLiteDemo is marked as need RAPC.
+13:54:58,649 TRACE [B] Entering ResourcesBuilder build();kind=6
+13:54:58,649 TRACE [B] Leaving ResourcesBuilder build()
+13:54:58,649 TRACE [A] Entering PreprocessingBuilder build();kind=6
+13:54:58,650 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/src/com/rim/samples/device/syncdemo/SyncDemo.java
+13:54:58,651 TRACE [A] File SyncDemo.java is marked as need to be built by java compiler.
+13:54:58,652 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/src/com/rim/samples/device/syncdemo/ContactScreen.java
+13:54:58,653 TRACE [A] File ContactScreen.java is marked as need to be built by java compiler.
+13:54:58,653 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/SyncDemo/src/com/rim/samples/device/syncdemo/ContactData.java
+13:54:58,653 TRACE [A] File ContactData.java is marked as need to be built by java compiler.
+13:54:58,654 TRACE [A] Leaving PreprocessingBuilder build()
+13:54:58,657 TRACE [A] Project SyncDemo is marked as need RAPC.
+13:54:58,736 TRACE [e] ****** Get resource for SQLiteDemo
+13:54:58,741 TRACE [e] ****** Get resource for SyncDemo
+13:58:22,282 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,282 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,283 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,285 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,285 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,285 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,286 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,287 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,288 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,288 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,289 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,289 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,290 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,290 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,290 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,291 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,292 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,293 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,293 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,293 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,296 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,296 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,297 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,297 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,298 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,298 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,298 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,298 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,299 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,300 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,300 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,300 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,300 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,301 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,301 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,302 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,302 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,302 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,303 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,303 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,304 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,304 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,304 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,305 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,305 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,306 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,306 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,307 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,307 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,308 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,308 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,309 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,309 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,310 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,310 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,310 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,311 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,313 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,313 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,314 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,314 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,315 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,315 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,315 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,316 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,316 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,316 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,317 TRACE [A] Leaving PreprocessingBuilder build()
+13:58:22,318 TRACE [B] Entering ResourcesBuilder build();kind=9
+13:58:22,318 TRACE [B] Leaving ResourcesBuilder build()
+13:58:22,318 TRACE [A] Entering PreprocessingBuilder build();kind=9
+13:58:22,319 TRACE [A] Leaving PreprocessingBuilder build()

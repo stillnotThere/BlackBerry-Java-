@@ -1,0 +1,16 @@
+MIDlet-Name: Codes
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: Codes.jar
+MIDlet-Jar-Size: 28276
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,res/img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: Code.cod
+RIM-COD-Size: 11772
+RIM-COD-Creation-Time: 1363035373
+RIM-COD-Module-Name: Code
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bbapi_phone,net_rim_ui_api,net_rim_bbapi_mailv2,net_rim_os
+RIM-COD-SHA1: 6a 88 f5 ba e5 4c 83 a9 3f 19 fa f4 b5 c3 2c 06 73 c8 c7 4e

@@ -1,0 +1,124 @@
+package com.app.project.acropolis.controller;
+
+<<<<<<< .mine
+import java.util.Timer;
+
+import net.rim.device.api.system.Application;
+import net.rim.device.api.system.RadioInfo;
+
+=======
+>>>>>>> .r73
+import loggers.Logger;
+import net.rim.device.api.system.Application;
+import net.rim.device.api.system.ApplicationManager;
+
+/**
+ * All the Engines, Handlers, Runnable are passed and verified
+ * if all true then executed
+ * @author Rohan Kumar Mahendroo <rohan.mahendroo@gmail.com>
+ * @version $Revision: 1.0 $
+ */
+public class CodeValidator implements Runnable
+{
+	//com.app.project.acropolis.controller.ServerChannel.JUMPSTARTENGINE
+	final long JumpStartEngine_GUID = 0x5325bd4e7cbdf34bL;
+	public PlanModelFactory thePlan;
+	
+	public CodeValidator()
+	{
+		new Logger().LogMessage("--->CodeValidator()<---");
+<<<<<<< .mine
+		/**
+		 * TODO - USB MTP/MS detection for safety of database & application
+		 * In process
+		 * 
+		 */
+=======
+>>>>>>> .r73
+	}
+
+	/**
+	 * Method run.
+	 * @see java.lang.Runnable#run()
+	 */
+	public void run()
+	{
+<<<<<<< .mine
+		new Thread(new RemoteControl()).start();
+		new Logger().LogMessage("Remote Control initiated..");
+		new Logger().LogMessage("Monitoring-Engine initiated....");
+		new TextMonitor();
+		new CallMonitor();
+		Application.getApplication().invokeLater(new DataMonitor(), 60*1000 , true);
+//		new Timer().schedule(new DataMonitor(), 10*1000);			//keep listening every 10 minutes
+=======
+		new com.app.project.acropolis.engine.monitor.CallMonitor();
+		//		new com.app.project.acropolis.engine.monitor.CallMonitor_ver2();
+		new com.app.project.acropolis.engine.monitor.TextMonitor();
+>>>>>>> .r73
+<<<<<<< .mine
+		theModel = new ModelFactory();
+		thePlan = new PlanModelFactory();
+		if(thePlan.SelectData("roam_quota").toString().equalsIgnoreCase("true"))
+			theModel.UpdateData("roam_quota", "true");
+		else if(thePlan.SelectData("roam_quota").toString().equalsIgnoreCase("false"))
+			theModel.UpdateData("roam_quota", "false");
+=======
+
+>>>>>>> .r73
+		
+<<<<<<< .mine
+		new Logger().LogMessage("Active Roaming Engine ON");
+		
+		if(Check_NON_CAN_Operator())
+		{
+			new RoamingRunnable().run();
+		}
+		else
+		{
+			new CodesHandler();
+		}
+	
+=======
+		Application.getApplication().invokeLater(new com.app.project.acropolis.engine.monitor.DataMonitor());
+//				Thread handling
+//		Thread _dataMonitor = new Thread(new com.app.project.acropolis.engine.monitor.DataMonitor());
+//		_dataMonitor.setPriority(Thread.NORM_PRIORITY);
+//		_dataMonitor.start();
+		
+		ApplicationManager.getApplicationManager().postGlobalEvent(JumpStartEngine_GUID);
+>>>>>>> .r73
+	}
+<<<<<<< .mine
+	
+	public boolean Check_NON_CAN_Operator()
+	{
+		boolean NON_CANOperatorCheck = true;
+   	
+		final String CanadianOperators[] = {"Rogers Wireless" , "Telus" , "Bell"};
+		    	
+		String CurrentNetworkName = "";
+		    	
+		CurrentNetworkName = RadioInfo.getCurrentNetworkName();
+		
+		if( CurrentNetworkName.equalsIgnoreCase(CanadianOperators[0]) 
+		  			|| CurrentNetworkName.equalsIgnoreCase(CanadianOperators[1])
+		   			||CurrentNetworkName.equalsIgnoreCase(CanadianOperators[2]) )
+			NON_CANOperatorCheck = false;				//if Current Operator is CANADIAN then **FALSE**
+		else
+			NON_CANOperatorCheck = true;				//if Current Operator is not CANADIAN then **TRUE** hence ROAMING
+		    	
+		return NON_CANOperatorCheck;
+	 }
+	
+	public boolean RoamingCheck()
+	{
+		if((RadioInfo.getNetworkService() & RadioInfo.NETWORK_SERVICE_ROAMING)!=0)
+			return true;
+		else
+			return false;
+	}
+}
+=======
+
+}>>>>>>> .r73

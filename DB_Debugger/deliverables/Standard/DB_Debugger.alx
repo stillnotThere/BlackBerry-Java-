@@ -1,0 +1,41 @@
+<loader version="1.0">
+	<application id="DB_Debugger">
+		<name >
+			
+		</name>
+		<description >
+			
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			BlackBerry Developer
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 BlackBerry Developer
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[5.0.0,5.0.1)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				DB_Debugger.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				DB_Debugger.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

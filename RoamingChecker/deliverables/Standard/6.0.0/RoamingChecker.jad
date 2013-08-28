@@ -1,0 +1,16 @@
+MIDlet-Name: RoamingChecker
+MIDlet-Version: 1.0.0.1
+MIDlet-Vendor: CPH Inc
+MIDlet-Jar-URL: RoamingChecker.jar
+MIDlet-Jar-Size: 37752
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Roaming Checker,res/img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: RoamingChecker.cod
+RIM-COD-Size: 15032
+RIM-COD-Creation-Time: 1363373061
+RIM-COD-Module-Name: RoamingChecker
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_lbs_api_2,net_rim_locationapi,net_rim_database,net_rim_bbapi_maps,net_rim_bb_maps_api
+RIM-COD-SHA1: 73 a0 f0 fb ea dc 16 4a 33 3f 86 d0 94 e2 72 8d 0b 6e 9b 54
