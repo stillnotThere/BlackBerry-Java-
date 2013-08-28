@@ -13,6 +13,7 @@ import javax.wireless.messaging.MultipartMessage;
 import javax.wireless.messaging.TextMessage;
 
 import net.rim.blackberry.api.sms.OutboundMessageListener;
+import net.rim.blackberry.api.sms.SMS;
 import net.rim.device.api.io.DatagramConnectionBase;
 
 /**
@@ -93,7 +94,7 @@ public class TextMonitor
 	 * Payload(message text), Address(receipient's number)
 	 */
 	public void HandleDatagramConnection()
-	{
+	{ 
 		new Logger().LogMessage(">>"+this.getClass()+"<<");
 		try{
 			datagram_conn = (DatagramConnection) Connector.open(SMS_Server_noport);		// 'sms://'
@@ -101,7 +102,7 @@ public class TextMonitor
 			for(;;)
 			{
 				dg_sms = datagram_conn.newDatagram(datagram_conn.getMaximumLength());	//fetch SMS
-				
+				SMS sm;
 				/*RECIEVing*/
 				datagram_conn.receive(dg_sms);											//recieve SMS
 				sms_payload = dg_sms.getData();											//payload

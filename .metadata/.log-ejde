@@ -819,3 +819,41 @@
 13:58:22,318 TRACE [B] Leaving ResourcesBuilder build()
 13:58:22,318 TRACE [A] Entering PreprocessingBuilder build();kind=9
 13:58:22,319 TRACE [A] Leaving PreprocessingBuilder build()
+15:44:22,595 TRACE [A] Entering PreprocessingBuilder build();kind=9
+15:44:22,596 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+15:44:22,596 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+15:44:22,613 TRACE [A] Leaving PreprocessingBuilder build()
+15:44:22,613 TRACE [B] Entering ResourcesBuilder build();kind=9
+15:44:22,614 TRACE [B] Leaving ResourcesBuilder build()
+15:44:22,618 TRACE [A] Project Codes is marked as need RAPC.
+15:44:43,372 TRACE [A] Entering PreprocessingBuilder build();kind=9
+15:44:43,372 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+15:44:43,372 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+15:44:43,373 TRACE [A] Leaving PreprocessingBuilder build()
+15:44:43,373 TRACE [B] Entering ResourcesBuilder build();kind=9
+15:44:43,373 TRACE [B] Leaving ResourcesBuilder build()
+15:44:43,374 TRACE [A] Project Codes is marked as need RAPC.
+15:49:22,954 TRACE [A] Entering PreprocessingBuilder build();kind=9
+15:49:22,954 TRACE [A] Leaving PreprocessingBuilder build()
+15:49:22,955 TRACE [B] Entering ResourcesBuilder build();kind=9
+15:49:22,955 TRACE [B] Leaving ResourcesBuilder build()
+15:52:29,681 TRACE [A] Entering PreprocessingBuilder build();kind=9
+15:52:29,681 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+15:52:29,682 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+15:52:29,682 TRACE [A] Leaving PreprocessingBuilder build()
+15:52:29,682 TRACE [B] Entering ResourcesBuilder build();kind=9
+15:52:29,682 TRACE [B] Leaving ResourcesBuilder build()
+15:52:29,683 TRACE [A] Project Codes is marked as need RAPC.
+15:57:11,715 TRACE [A] Entering PreprocessingBuilder build();kind=9
+15:57:11,716 TRACE [A] Preprocessing file : /Users/CPH-iMac/Documents/Workspace/AppModules/BlackBerry(Java)/Codes/src/codetester/packg/TextMonitor.java
+15:57:11,716 TRACE [A] File TextMonitor.java is marked as need to be built by java compiler.
+15:57:11,717 TRACE [A] Leaving PreprocessingBuilder build()
+15:57:11,717 TRACE [B] Entering ResourcesBuilder build();kind=9
+15:57:11,717 TRACE [B] Leaving ResourcesBuilder build()
+15:57:11,718 TRACE [A] Project Codes is marked as need RAPC.
+15:57:15,146 TRACE [A] Entering PreprocessingBuilder build();kind=9
+15:57:15,146 TRACE [A] Leaving PreprocessingBuilder build()
+15:57:15,147 TRACE [B] Entering ResourcesBuilder build();kind=9
+15:57:15,147 TRACE [B] Leaving ResourcesBuilder build()
+15:57:15,678 DEBUG [I] Bundle [net.rim.ejde] is changing state to Stopping.
+15:57:15,679 DEBUG [C] Property change listener is disabled.
